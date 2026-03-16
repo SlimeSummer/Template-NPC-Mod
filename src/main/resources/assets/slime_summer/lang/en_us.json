@@ -1,0 +1,7 @@
+{
+  "gui.slime_summer.npc.title": "NPC Control",
+  "gui.slime_summer.npc.owner": "Owner: %s",
+  "gui.slime_summer.npc.follow_mode.on": "Follow Mode: ON",
+  "gui.slime_summer.npc.follow_mode.off": "Follow Mode: OFF",
+  "gui.slime_summer.npc.follow_mode.toggle": "Follow mode toggled"
+}

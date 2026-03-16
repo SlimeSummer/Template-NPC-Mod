@@ -1,0 +1,7 @@
+{
+  "gui.slime_summer.npc.title": "NPC 控制",
+  "gui.slime_summer.npc.owner": "主人: %s",
+  "gui.slime_summer.npc.follow_mode.on": "跟随模式: 开启",
+  "gui.slime_summer.npc.follow_mode.off": "跟随模式: 关闭",
+  "gui.slime_summer.npc.follow_mode.toggle": "跟随模式已切换"
+}
